@@ -85,21 +85,33 @@ A robust authentication service implementation using **Golang**, designed for sc
 - API endpoints for integration with other services
 - Designed for high-performance microservices environment
 
-### ☕ [Javapucino](https://github.com/deasdania/javapucino)
-A Java-based project showcasing enterprise-level development skills:
-- Object-oriented programming principles implementation
-- Spring Boot framework integration
-- Clean code architecture and design patterns
-- Comprehensive testing and documentation
+### 🧪 [Cypress E2E Testing Framework](https://github.com/deasdania/sanbercode-finalproject-cypress)
+A comprehensive end-to-end testing framework built with **Cypress** for e-commerce applications:
+- **Page Object Model (POM)** architecture for maintainable test structure
+- **Dual selector strategy** - CSS selectors with XPath fallbacks
+- **Complete test coverage** - Authentication, shopping cart, contact forms
+- **Custom Cypress commands** for reusable operations
+- **Cross-browser testing** support with video recording
+- **Test categorization** with tagging (@smoke, @e2e) for selective execution
+- **Automatic screenshots** and failure debugging capabilities
 
-### 🔗 [Boilgopher](https://github.com/deasdania/boilgopher)
-A Golang boilerplate project that demonstrates:
-- Modern Go development practices and project structure
-- Clean architecture implementation
-- Database integration and ORM usage
-- API development with best practices
-- Ready-to-use template for Go projects
-- Performance optimization techniques
+### 🐍 [Python API Test Suite](https://github.com/deasdania/python-test)
+A modern, comprehensive API testing framework using **Python** and **pytest**:
+- **JSONPlaceholder API** complete test coverage
+- **Beautiful HTML reporting** with execution metrics
+- **Test markers** for smoke, regression, performance, and negative testing
+- **Organized test structure** with fixtures and utilities
+- **Configuration management** for different environments
+- **Performance validation** with response time checks
+- **Mobile-friendly** test reports interface
+
+### 🔧 [API Automation Boilerplate](https://github.com/deasdania/sanbercode-api-automation-boilerplate)
+A **Node.js** and **Newman** based API automation framework:
+- **Postman collection** automation with Newman
+- **Environment configuration** management
+- **Assignment reference** for SanberCode training program
+- **Automated test execution** scripts
+- **Modular structure** for easy extension and maintenance
 
 ### 🐰 [RabbitMQ Go](https://github.com/deasdania/rabbitmq-go)
 A message queue implementation using **RabbitMQ** and **Golang**:
