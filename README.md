@@ -121,11 +121,6 @@ A message queue implementation using **RabbitMQ** and **Golang**:
 - Error handling and retry mechanisms
 - Scalable messaging architecture for distributed systems
 
-### 🏪 [Commercial Project - Merchant & SubMerchant Business](https://github.com/deasdania/commercial-golang)
-A comprehensive merchant management system built with Golang, featuring business logic for handling merchant and sub-merchant operations.
-
-### 🔐 [Auth Service](https://github.com/deasdania/auth-service)
-A robust authentication service implementation using Golang, designed for scalable microservices architecture.
 
 ## 🎯 What I'm Working On
 
