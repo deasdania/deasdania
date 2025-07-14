@@ -2,15 +2,22 @@
 
 **Systems Engineer | Backend Development Specialist**
 
-🌏 Based in West Java, Indonesia  
-📧 dea.dania.business@gmail.com  
-📱 (+62) 851-5826-8556  
+## 🤝 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborating on interesting projects, or sharing knowledge about backend development. Feel free to reach out!
+
+- 📧 Email: dea@deagendail.com or dea.dania.business@gmail.com
+- 🌐 Location: West Java, Indonesia
+- 💼 Looking for: Backend Development or QA Engineer opportunities and collaborative projects
+- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/dea-dania-374244134/)
 
 ## 🚀 About Me
 
 Results-driven IT professional with extensive experience in system and backend development. I'm proficient in **Golang**, **gRPC**, and **RESTful APIs**, with a passion for collaborating with cross-functional teams to deliver high-quality software solutions that meet business objectives. My proactive problem-solving skills and commitment to continuous learning ensure I stay at the forefront of emerging technologies.
 
 ## 📊 Programming Languages & GitHub Activity
+Check out my repositories to see my latest projects and contributions in backend development, particularly in Golang, Java, and Python.
+
 
 ### 💻 Language Usage Distribution
 
@@ -114,19 +121,6 @@ A robust authentication service implementation using Golang, designed for scalab
 - 🔄 System migration from Spring Boot to Go
 - 💳 Payment gateway integrations
 - 🏗️ Scalable backend solutions
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing new opportunities, collaborating on interesting projects, or sharing knowledge about backend development. Feel free to reach out!
-
-- 📧 Email: dea@deagendail.com or dea.dania.business@gmail.com
-- 🌐 Location: West Java, Indonesia
-- 💼 Looking for: Backend Development or QA Engineer opportunities and collaborative projects
-- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/dea-dania-374244134/)
-
-## 📊 GitHub Activity
-
-Check out my repositories to see my latest projects and contributions in backend development, particularly in Golang, Java, and Python.
 
 ---
 
